@@ -1,0 +1,24 @@
+{
+  "name": "typescriptpractice",
+  "version": "1.0.0",
+  "description": "\"# TSpractise\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rushi7795/TSpractise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rushi7795/TSpractise/issues"
+  },
+  "homepage": "https://github.com/Rushi7795/TSpractise#readme",
+  "devDependencies": {
+    "@types/jest": "^28.1.1",
+    "jest": "^28.1.0",
+    "typescript": "^4.7.3"
+  }
+}
